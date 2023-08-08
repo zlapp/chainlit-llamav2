@@ -1,0 +1,5 @@
+black
+chainlit==0.6.2
+ctransformers==0.2.21
+isort
+langchain==0.0.256
